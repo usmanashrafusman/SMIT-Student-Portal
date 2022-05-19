@@ -1,0 +1,27 @@
+.button {
+  background-color: #8cc143 !important;
+}
+.button:hover {
+  background-color: #8cc143 !important;
+}
+
+.button:active{
+  background-color: #70a625 !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: #8cc143 !important;
+}
+
+a:focus{
+  color: #70a625 !important;
+}
+
+input {
+  border: 1px solid #8cc143 !important;
+}
+
+input:focus{
+  border: 1px solid #70a625 !important;
+}
